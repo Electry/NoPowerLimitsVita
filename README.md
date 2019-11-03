@@ -7,6 +7,7 @@ Namely:
 ![brightness_limit](https://user-images.githubusercontent.com/12598379/66714100-bbaab800-edb2-11e9-9058-8d8f5711a4c1.gif)
 - **Disabled WLAN (network features)** - when a game requests power mode B (166MHz GPU + full brightness)
 ![network_features_disabled](https://user-images.githubusercontent.com/12598379/66714102-c82f1080-edb2-11e9-9157-655f7eed19df.jpg)
+- **Disabled camera** - when a game requests power mode C or D (166MHz GPU + network features)
 
 Previously with 166+MHz on the GPU, you either had available WLAN ***or*** 100% brightness. Now you can have them both in all four power modes (A/B/C/D).
 
